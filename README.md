@@ -1,2 +1,0 @@
-# Programki
-I love coding
